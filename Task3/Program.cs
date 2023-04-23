@@ -43,3 +43,5 @@ double[] array = CreateAndFillingArray(size);
 PrintArrayInConsole(array);
 
 System.Console.WriteLine($"разница между макс и мин значенями массива = {TheDifferenceBetweenTheMaximumAndMinimumValuesOfTheArray(array)}");
+
+
